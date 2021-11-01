@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 <h3 align="center">A full-stack developer from Argentina to the 🌍</h3>
 
-<h3 align="center">I am passionate about everything related to technology! I like to say "the digital world".</h3>
+<h3 align="center">I am passionate about everything related to technology! I like to say "the digital world". Since it is that, a world where you can always grow, learn and evolve. Both the world itself, and the people who immerse themselves in it!</h3>
   
 <h3 align="center">💻 Computers, 🎮 videogames and the curiosity to know how technology advances and what new things can be done are my pillars to love it</h3>
 
