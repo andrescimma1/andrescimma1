@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 <h3 align="center">A full-stack developer from Argentina to the 🌍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrescimma1&label=Profile%20views&color=0e75b6&style=flat" alt="andrescimma1" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=andrescimma1&label=Profile%20views&color=0e75b6&style=flat" alt="andrescimma1" /> </p>
 
 <h3 align="center">I am passionate about everything related to technology! I like to say "the digital world".</h3>
   
