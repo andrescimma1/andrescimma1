@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 <h3 align="center">A full-stack developer from Argentina to the 🌍</h3>
 
